@@ -1,6 +1,6 @@
 // Function declaration
 function bomDia() {
-  console.log('Bom diaaa!');
+  console.log('Bom diaaaa!');
 }
 
 // Function expression
