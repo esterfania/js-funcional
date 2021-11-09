@@ -1,11 +1,11 @@
 // Function declaration
 function bomDia() {
-  console.log("Bom diaa!");
+  console.log('Bom diaaa!');
 }
 
 // Function expression
 const boaTarde = function () {
-  console.log("Boa tarde!!");
+  console.log('Boa tarde!!');
 };
 
 bomDia();
